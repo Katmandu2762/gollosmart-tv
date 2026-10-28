@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GolloSmart Dakboard</string>
+    <!-- Dirección que abre la app. Se puede cambiar aquí o desde el menú de la app. -->
+    <string name="default_url">https://claude.ai/artifact/E6bYQKBrBxstMmEXPTfa8C</string>
+</resources>
